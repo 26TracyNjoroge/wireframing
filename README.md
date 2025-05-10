@@ -25,4 +25,10 @@ A wireframe is a simple visual guide that represents the skeletal framework of a
    * This draws attention to top stories while providing access to others.
 4. **Functionality:** Outlines key functionalities and interactions.
    * **Example:** A signup form for a newsletter with input fields for email and a "Subscribe" button.
-   * This helps websites capture user emails for updates.
+   * This helps websites capture user emails for updates.<br/><br/>
+
+## Types of Wireframes
+1. **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.<br/>
+  **When to use:** At the early stages of design for instance during brainstorming and concept validation. <br/><br/>
+2. **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.<br/>
+  **When to use:** After the layout and structure are agreed upon and for client presentations and stakeholder feedback.
