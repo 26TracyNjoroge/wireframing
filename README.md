@@ -31,4 +31,50 @@ A wireframe is a simple visual guide that represents the skeletal framework of a
 1. **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.<br/>
   **When to use:** At the early stages of design for instance during brainstorming and concept validation. <br/><br/>
 2. **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.<br/>
-  **When to use:** After the layout and structure are agreed upon and for client presentations and stakeholder feedback.
+  **When to use:** After the layout and structure are agreed upon and for client presentations and stakeholder feedback.<br/><br/>
+
+## Wireframing Tools
+Popular wireframing tools include:
+* **Figma** for collaboration
+* **Miro** for remote teams building wireframes asynchronously
+* **Adobe XD** with templates optimised for user experience design
+* **Moqups** for beginners
+* **Balsamiq** for non-designers
+* **UXPin** for code-based design
+* **Justinmind** for interactive wireframes
+* **Visily** for AI-assisted wireframing
+* **Framer** for an interactive-by-default wireframe  workflow
+
+### Why Figma is Recommended
+Figma stands out for several reasons:
+- **Collaboration:** Multiple team members can design and comment in real time.
+- **Cross-platform:** Works directly in the browser, with desktop apps for Windows and macOS.
+- **Versatile:** Supports wireframing, UI design, prototyping, and developer handoff in one tool.
+- **Extensive Resources:** A large community, design templates, and plugins make it beginner-friendly.
+
+### Why Figma is useful for wireframing?
+1. User-Friendly Interface and Intuitive Design<br/>
+    * Figma's interface is known for being easy to navigate, making it accessible for both beginners and experienced designers.<br/>
+    * Its drag-and-drop functionality and intuitive tools simplify the process of creating wireframes.<br/>
+2. Collaborative Features<br/>
+    * Figma allows multiple users to work on the same project simultaneously in real-time, fostering collaboration and enabling efficient feedback and iteration. <br/>
+    * Sharing wireframes is as simple as sending a link, allowing teams to easily review and discuss designs.<br/>
+3. Built-in Wireframe Kits and Templates<br/>
+    * Figma offers a variety of built-in wireframe kits and templates that provide a head start for creating different types of wireframes, from low-fidelity to mid-fidelity. <br/>
+    * These kits can be customized to suit specific project needs. <br/>
+4. Prototyping Capabilities<br/>
+    * Figma's prototyping features allow designers to create interactive wireframes, enabling them to visualize user flows and interactions.<br/>
+    * This helps in testing and refining designs before they are fully developed.<br/> 
+5. Vector-Based Design<br/>
+    * Figma's vector-based design engine allows for creating complex shapes and designs with ease.<br/>
+    * This is particularly useful for creating detailed wireframes that accurately represent the final design.<br/>
+6. Speed and Efficiency<br/>
+    * Figma's online platform and drag-and-drop features allow for quick creation and iteration of wireframes.<br/>
+    * This speed is especially helpful when brainstorming and exploring different design options.<br/>
+7. Accessibility and Scalability<br/>
+    * As a cloud-based tool, Figma is accessible from any device with an internet connection. <br/>
+    * Its scalable design engine allows for creating wireframes of varying complexity and detail. 
+
+
+
+
